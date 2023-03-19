@@ -1,5 +1,5 @@
 # Latest Alpine with Ruby 2.5 or later
-FROM ruby:3.2.1-alpin33.17
+FROM ruby:3.2.1-alpine3.17
 
 # Add Jekyll dependancies + Git
 RUN apk update
